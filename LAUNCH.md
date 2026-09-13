@@ -84,4 +84,3 @@ Zero code. One markdown file. Changes agent behavior completely.
 The insight: Claude Code skills are plain text. A well-structured SKILL.md is more powerful than most people realize.
 
 https://github.com/halakou/ground
-ENDOFlaunch && git -C /tmp/ground add LAUNCH.md && git -C /tmp/ground -c user.name="halakou" -c user.email="halakou@github.com" commit -m "[AGENT] Add launch content - 2026-09-13" 2>&1 && git -C /tmp/ground push origin main 2>&1
